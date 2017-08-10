@@ -1,0 +1,5 @@
+*.class
+*.log
+src/main/resources/
+target/
+.idea
